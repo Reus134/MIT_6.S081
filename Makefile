@@ -152,6 +152,11 @@ UPROGS=\
 	$U/_copy\
 	$U/_open\
 	$U/_forkexe\
+	$U/_sleep\
+	$U/_pingpong\
+	$U/_Primes\
+	$U/_find\
+	$U/_xargs\
 	
 
 
